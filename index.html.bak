@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSCE 190: Liam Diaz</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <h1>Liam Diaz's CSCE 190 Site</h1>
+
+        <!-- Problem Statement Assignments -->
+        <section class="assignment">
+            <a href="files/Problem Statement.pdf"><img src="images/problem-statement.png"></a>
+            <section class="ass-details">
+                <a href="files/Problem Statement.pdf"><h2>Problem Statement: Boredom</h2></a>
+                <p>
+                    In a perfect world, there would be no boredom. Currently, we are plagued by it almost every day in  some form or fashion. This boredom is wasting our time that we can be productive during. To solve this,  an app should be created to help fill those little, or big, times of boredom with productive and  entertaining activities. 
+                </p>
+            </section>
+        </section>
+
+        <!-- Affinity Diagram Assignment -->
+        <section class="assignment">
+            <a href="files/Boredom Solution.pdf"><img src="images/problem-solutions.png"></a>
+            <section class="ass-details">
+                <a href="files/Boredom Solution.pdf"><h2>Affinity Diagram: Boredom</h2></a>
+                <p>
+                    My group and I's brainstormed ideas for solutions related to our problem.
+                </p>
+            </section>
+        </section>
+        <!-- Persona Assignment -->
+        <section class="assignment">
+            <a href="files/Final personas.pdf"><img src="images/Persona.png"></a>
+            <section class="ass-details">
+                <a href="files/Final personas.pdf"><h2>Personas: Boredom</h2></a>
+                <p>
+                    An example persona of someone who would typically use our app.
+                </p>
+            </section>
+        </section>
+        <!-- Storyboard Assignment -->
+        <section class="assignment">
+            <a href="files/FinishedStoryboard.pdf"><img src="images/storyboard.png"></a>
+            <section class="ass-details">
+                <a href="files/FinishedStoryboard.pdf"><h2>Storyboard: Boredom</h2></a>
+                <p>
+                    My group and I created storyboards that explain why our personas would want to use our app.
+                </p>
+            </section>
+        </section>
+    </body>
+</html>
