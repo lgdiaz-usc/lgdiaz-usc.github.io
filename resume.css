@@ -1,0 +1,20 @@
+:root {
+    line-height: 1.5;
+}
+
+h1 {
+    text-align: center;
+}
+
+.contact {
+    text-align: center;
+    line-height: 0.25;
+}
+
+.exp-section {
+    line-height: 1;
+}
+
+th {
+    text-align: left;
+}
